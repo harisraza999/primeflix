@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Eliminar"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="bt_add_card">Añadir tarjeta</string>
+    <string name="bt_cancel">Cancelar</string>
+    <string name="bt_card_details">Datos de la tarjeta</string>
+    <string name="bt_card_not_accepted">Tarjeta no aceptada</string>
+    <string name="bt_card_number_invalid">Número de tarjeta no válido</string>
+    <string name="bt_card_number_required">El número de tarjeta es obligatorio</string>
+    <string name="bt_cardholder_name_required">El nombre del titular de la tarjeta es obligatorio</string>
+    <string name="bt_cid">CID</string>
+    <string name="bt_confirm">Confirmar</string>
+    <string name="bt_confirm_enrollment">Confirmar inscripción</string>
+    <string name="bt_country_code_invalid">Código de país no válido</string>
+    <string name="bt_country_code_required">El código de país es obligatorio.</string>
+    <string name="bt_cvc">CVC</string>
+    <string name="bt_cvn">CVN</string>
+    <string name="bt_cvv">CVV</string>
+    <string name="bt_cvv_invalid">El valor %s no es válido</string>
+    <string name="bt_cvv_required">El valor %s es obligatorio</string>
+    <string name="bt_delete">Eliminar</string>
+    <string name="bt_delete_confirmation_description">Ya no podrá utilizar esta forma de pago en la aplicación.</string>
+    <string name="bt_delete_confirmation_title">¿Desea eliminar esta forma de pago?</string>
+    <string name="bt_descriptor_amex">Amex</string>
+    <string name="bt_descriptor_android_pay">Android Pay</string>
+    <string name="bt_descriptor_diners">Diners</string>
+    <string name="bt_descriptor_discover">Discover</string>
+    <string name="bt_descriptor_google_pay">Google Pay</string>
+    <string name="bt_descriptor_jcb">JCB</string>
+    <string name="bt_descriptor_maestro">Maestro</string>
+    <string name="bt_descriptor_mastercard">MasterCard</string>
+    <string name="bt_descriptor_pay_with_venmo">Venmo</string>
+    <string name="bt_descriptor_paypal">PayPal</string>
+    <string name="bt_descriptor_unionpay">UnionPay</string>
+    <string name="bt_descriptor_unknown">Tarjeta de débito o crédito</string>
+    <string name="bt_descriptor_visa">Visa</string>
+    <string name="bt_done">Hecho</string>
+    <string name="bt_edit">Modificar</string>
+    <string name="bt_expiration_invalid">Fecha de vencimiento no válida</string>
+    <string name="bt_expiration_required">La fecha de vencimiento es obligatoria</string>
+    <string name="bt_form_hint_card_number">Número de tarjeta</string>
+    <string name="bt_form_hint_cardholder_name">Nombre del titular de la tarjeta</string>
+    <string name="bt_form_hint_country_code">Código de país</string>
+    <string name="bt_form_hint_cvv">@string/bt_cvv</string>
+    <string name="bt_form_hint_expiration">Fecha de vencimiento</string>
+    <string name="bt_form_hint_mobile_number">N.º de móvil</string>
+    <string name="bt_form_hint_postal_code">Código postal</string>
+    <string name="bt_mobile_number_invalid">Número de móvil no válido</string>
+    <string name="bt_mobile_number_required">El número de móvil es obligatorio.</string>
+    <string name="bt_month">Mes</string>
+    <string name="bt_next">Siguiente</string>
+    <string name="bt_other">Otra</string>
+    <string name="bt_postal_code_invalid">Código postal no válido</string>
+    <string name="bt_postal_code_required">El código postal es obligatorio.</string>
+    <string name="bt_recent">Reciente(s)</string>
+    <string name="bt_scan_with_card_io">Escanear con card.io</string>
+    <string name="bt_select_payment_method">Seleccionar forma de pago</string>
+    <string name="bt_sms_code">Código SMS</string>
+    <string name="bt_sms_code_required">El código SMS es obligatorio</string>
+    <string name="bt_sms_code_sent_to">Introduce el código SMS enviado al %s</string>
+    <string name="bt_unionpay_mobile_number_explanation">Puede que para esta tarjeta sea necesario inscribirse. Se enviará un código SMS a este número si es necesario.</string>
+    <string name="bt_unionpay_sms_code_invalid">Código SMS no válido</string>
+    <string name="bt_use_a_different_phone_number">Usar otro número de teléfono</string>
+    <string name="bt_vault_manager_delete_failure">No hemos podido eliminar la forma de pago en este momento. Inténtelo de nuevo más tarde.</string>
+    <string name="bt_vault_manager_title">Modificar guardado</string>
+    <string name="bt_year">Año</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"Anuncio"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"Enviando a %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"Subtítulos"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"Subtítulos no disponibles"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"Conectando a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"Desconectar"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Imagen que se muestra mientras el receptor de Google Cast reproduce un anuncio"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"Anuncio en curso…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"Portada del álbum"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"La posición actual es anterior a la transmisión en directo"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"Streaming en directo"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"Cargando…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"Saltar anuncio"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"Podrás saltar el anuncio en %1$d…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"Avanzar"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"Avanzar 10 segundos"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"Avanzar 30 segundos"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"EN DIRECTO"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"Silenciar"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"Conectado a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Conectando a <ns1:g id="NAME">%1$s</ns1:g>"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Enviar"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"Desconectar"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"Pausar"</string>
+    <string msgid="5906987965619702702" name="cast_play">"Reproducir"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"Rebobinar"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"Rebobinar 10 segundos"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"Rebobinar 30 segundos"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"Control para buscar posición de reproducción"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"Saltar al siguiente elemento"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"Saltar al elemento anterior"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"Detener"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"Detener streaming en directo"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"Audio"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"Cancelar"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"Subtítulos"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"Pista <ns1:g id="POSITION">%1$d</ns1:g>"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"Ninguna"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Aceptar"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Subtítulos"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"Activar sonido"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidad Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string name="country_afghanistan_name">Afganistán</string>
+    <string name="country_aland_islands_name">Islas Aland</string>
+    <string name="country_albania_name">Albania</string>
+    <string name="country_algeria_name">Argelia</string>
+    <string name="country_american_samoa_name">Samoa Americana</string>
+    <string name="country_andorra_name">Andorra</string>
+    <string name="country_angola_name">Angola</string>
+    <string name="country_anguilla_name">Anguila</string>
+    <string name="country_antarctica_name">Antártida</string>
+    <string name="country_antigua_and_barbuda_name">Antigua y Barbuda</string>
+    <string name="country_argentina_name">Argentina</string>
+    <string name="country_armenia_name">Armenia</string>
+    <string name="country_aruba_name">Aruba</string>
+    <string name="country_australia_name">Australia</string>
+    <string name="country_austria_name">Austria</string>
+    <string name="country_azerbaijan_name">Azerbaiyán</string>
+    <string name="country_bahamas_name">Bahamas</string>
+    <string name="country_bahrain_name">Bahrein</string>
+    <string name="country_bangladesh_name">Bangladesh</string>
+    <string name="country_barbados_name">Barbados</string>
+    <string name="country_belarus_name">Belarús</string>
+    <string name="country_belgium_name">Bélgica</string>
+    <string name="country_belize_name">Belice</string>
+    <string name="country_benin_name">Benin</string>
+    <string name="country_bermuda_name">Islas Bermudas</string>
+    <string name="country_bhutan_name">Bhután</string>
+    <string name="country_bolivia_name">Bolivia, Estado Plurinacional de</string>
+    <string name="country_bosnia_and_herzegovina_name">Bosnia y Herzegovina</string>
+    <string name="country_botswana_name">Botswana</string>
+    <string name="country_brazil_name">Brasil</string>
+    <string name="country_british_indian_ocean_territory_name">Territorio Británico del Océano Índico</string>
+    <string name="country_british_virgin_islands_name">Islas Vírgenes Británicas</string>
+    <string name="country_brunei_darussalam_name">Brunei Darussalam</string>
+    <string name="country_bulgaria_name">Bulgaria</string>
+    <string name="country_burkina_faso_name">Burkina Faso</string>
+    <string name="country_burundi_name">Burundi</string>
+    <string name="country_cambodia_name">Camboya</string>
+    <string name="country_cameroon_name">Camerún</string>
+    <string name="country_canada_name">Canadá</string>
+    <string name="country_cape_verde_name">Cabo Verde</string>
+    <string name="country_cayman_islands_name">Islas Caimán</string>
+    <string name="country_central_african_republic_name">República Centroafricana</string>
+    <string name="country_chad_name">Chad</string>
+    <string name="country_chile_name">Chile</string>
+    <string name="country_china_name">China</string>
+    <string name="country_christmas_island_name">Isla de Navidad</string>
+    <string name="country_cocos_keeling_islands_name">Cocos (Keeling)</string>
+    <string name="country_colombia_name">Colombia</string>
+    <string name="country_comoros_name">Comoras</string>
+    <string name="country_congo_name">Congo</string>
+    <string name="country_cook_islands_name">Islas Cook</string>
+    <string name="country_costa_rica_name">Costa Rica</string>
+    <string name="country_cote_d_ivoire_name">Côte D &amp; apos; Marfil</string>
+    <string name="country_croatia_name">Croacia</string>
+    <string name="country_cuba_name">Cuba</string>
+    <string name="country_cyprus_name">Chipre</string>
+    <string name="country_czech_republic_name">República Checa</string>
+    <string name="country_denmark_name">Dinamarca</string>
+    <string name="country_djibouti_name">Djibouti</string>
+    <string name="country_dominica_name">Dominica</string>
+    <string name="country_dominican_republic_name">República Dominicana</string>
+    <string name="country_ecuador_name">Ecuador</string>
+    <string name="country_egypt_name">Egipto</string>
+    <string name="country_el_salvador_name">El Salvador</string>
+    <string name="country_equatorial_guinea_name">Guinea Ecuatorial</string>
+    <string name="country_eritrea_name">Eritrea</string>
+    <string name="country_estonia_name">Estonia</string>
+    <string name="country_ethiopia_name">Etiopía</string>
+    <string name="country_falkland_islands_malvinas_name">Islas Malvinas (Falkland)</string>
+    <string name="country_faroe_islands_name">Islas Faroe</string>
+    <string name="country_fiji_name">Fiji</string>
+    <string name="country_finland_name">Finlandia</string>
+    <string name="country_france_name">Francia</string>
+    <string name="country_french_guyana_name">Guayana francés</string>
+    <string name="country_french_polynesia_name">Polinesia francés</string>
+    <string name="country_gabon_name">Gabón</string>
+    <string name="country_gambia_name">Gambia</string>
+    <string name="country_georgia_name">Georgia</string>
+    <string name="country_germany_name">Alemania</string>
+    <string name="country_ghana_name">Ghana</string>
+    <string name="country_gibraltar_name">Gibraltar</string>
+    <string name="country_greece_name">Grecia</string>
+    <string name="country_greenland_name">Groenlandia</string>
+    <string name="country_grenada_name">Granada</string>
+    <string name="country_guadeloupe_name">Guadalupe (Francia)</string>
+    <string name="country_guam_name">Guam</string>
+    <string name="country_guatemala_name">Guatemala</string>
+    <string name="country_guernsey_name">Bailía de Guernsey</string>
+    <string name="country_guinea_bissau_name">Guinea-bissau</string>
+    <string name="country_guinea_name">Guinea</string>
+    <string name="country_guyana_name">Guayana</string>
+    <string name="country_haiti_name">Haití</string>
+    <string name="country_holy_see_vatican_city_state_name">Santa Sede (Ciudad del Vaticano)</string>
+    <string name="country_honduras_name">Honduras</string>
+    <string name="country_hong_kong_name">Hong Kong</string>
+    <string name="country_hungary_name">Hungría</string>
+    <string name="country_iceland_name">Islandia</string>
+    <string name="country_india_name">India</string>
+    <string name="country_indonesia_name">Indonesia</string>
+    <string name="country_iran_name">Irán, República Islámica de</string>
+    <string name="country_iraq_name">Irak</string>
+    <string name="country_ireland_name">Irlanda</string>
+    <string name="country_isle_of_man_name">Isla de Man</string>
+    <string name="country_israel_name">Israel</string>
+    <string name="country_italy_name">Italia</string>
+    <string name="country_jamaica_name">Jamaica</string>
+    <string name="country_japan_name">Japón</string>
+    <string name="country_jersey_name">Jersey</string>
+    <string name="country_jordan_name">Jordán</string>
+    <string name="country_kazakhstan_name">Kazajstán</string>
+    <string name="country_kenya_name">Kenia</string>
+    <string name="country_kiribati_name">Kiribati</string>
+    <string name="country_kosovo_name">Kosovo</string>
+    <string name="country_kuwait_name">Kuwait</string>
+    <string name="country_kyrgyzstan_name">Kirguistán</string>
+    <string name="country_lao_peoples_democratic_republic_name">República Democrática s; Lao y apos</string>
+    <string name="country_latvia_name">Letonia</string>
+    <string name="country_lebanon_name">Líbano</string>
+    <string name="country_lesotho_name">Lesoto</string>
+    <string name="country_liberia_name">Liberia</string>
+    <string name="country_libya_name">Libia</string>
+    <string name="country_liechtenstein_name">Liechtenstein</string>
+    <string name="country_lithuania_name">Lituania</string>
+    <string name="country_luxembourg_name">Luxemburgo</string>
+    <string name="country_macao_name">Macao</string>
+    <string name="country_macedonia_name">Macedonia, Ex-República Yugoslava de</string>
+    <string name="country_madagascar_name">Madagascar</string>
+    <string name="country_malawi_name">Malawi</string>
+    <string name="country_malaysia_name">Malasia</string>
+    <string name="country_maldives_name">Maldivas</string>
+    <string name="country_mali_name">Mali</string>
+    <string name="country_malta_name">Malta</string>
+    <string name="country_marshall_islands_name">Islas Marshall</string>
+    <string name="country_martinique_name">Martinica</string>
+    <string name="country_mauritania_name">Mauritania</string>
+    <string name="country_mauritius_name">Mauricio</string>
+    <string name="country_mayotte_name">Mayotte</string>
+    <string name="country_mexico_name">México</string>
+    <string name="country_micronesia_name">Micronesia, Estados Federados de</string>
+    <string name="country_moldova_name">Moldavia</string>
+    <string name="country_monaco_name">Mónaco</string>
+    <string name="country_mongolia_name">Mongolia</string>
+    <string name="country_montenegro_name">Montenegro</string>
+    <string name="country_montserrat_name">Montserrat</string>
+    <string name="country_morocco_name">Marruecos</string>
+    <string name="country_mozambique_name">Mozambique</string>
+    <string name="country_myanmar_name">Myanmar</string>
+    <string name="country_namibia_name">Namibia</string>
+    <string name="country_nauru_name">Nauru</string>
+    <string name="country_nepal_name">Nepal</string>
+    <string name="country_netherlands_name">Países Bajos</string>
+    <string name="country_new_caledonia_name">Nueva Caledonia</string>
+    <string name="country_new_zealand_name">Nueva Zelanda</string>
+    <string name="country_nicaragua_name">Nicaragua</string>
+    <string name="country_niger_name">Níger</string>
+    <string name="country_nigeria_name">Nigeria</string>
+    <string name="country_niue_name">Niue</string>
+    <string name="country_norfolk_island_name">Isla Norfolk</string>
+    <string name="country_north_korea_name">República de s; Corea, Personas &amp; apos Democrática</string>
+    <string name="country_northern_mariana_islands_name">Islas Marianas del Norte</string>
+    <string name="country_norway_name">Noruega</string>
+    <string name="country_oman_name">Omán</string>
+    <string name="country_pakistan_name">Pakistán</string>
+    <string name="country_palau_name">Palau</string>
+    <string name="country_palestian_territory_name">Palestina</string>
+    <string name="country_panama_name">Panamá</string>
+    <string name="country_papua_new_guinea_name">Papúa Nueva Guinea</string>
+    <string name="country_paraguay_name">Paraguay</string>
+    <string name="country_peru_name">Perú</string>
+    <string name="country_philippines_name">Filipinas</string>
+    <string name="country_pitcairn_name">Pitcairn</string>
+    <string name="country_poland_name">Polonia</string>
+    <string name="country_portugal_name">Portugal</string>
+    <string name="country_puerto_rico_name">Puerto Rico</string>
+    <string name="country_qatar_name">Katar</string>
+    <string name="country_reunion_name">La Reunión</string>
+    <string name="country_romania_name">Rumania</string>
+    <string name="country_russian_federation_name">Federación Rusa</string>
+    <string name="country_rwanda_name">Ruanda</string>
+    <string name="country_saint_barthelemy_name">San Bartolomé</string>
+    <string name="country_saint_helena_name">Santa Helena, Ascensión y Tristán da Cunha</string>
+    <string name="country_saint_kitts_and_nevis_name">San Cristóbal y Nieves</string>
+    <string name="country_saint_lucia_name">Santa Lucía</string>
+    <string name="country_saint_martin_name">San Martín (Francia)</string>
+    <string name="country_saint_pierre_and_miquelon_name">San Pedro y Miquelón</string>
+    <string name="country_saint_vincent_the_grenadines_name">San Vicente y las Granadinas</string>
+    <string name="country_samoa_name">Samoa</string>
+    <string name="country_san_marino_name">San Marino</string>
+    <string name="country_sao_tome_and_principe_name">Santo Tomé y Príncipe</string>
+    <string name="country_saudi_arabia_name">Arabia Saudita</string>
+    <string name="country_senegal_name">Senegal</string>
+    <string name="country_serbia_name">Serbia</string>
+    <string name="country_seychelles_name">Seychelles</string>
+    <string name="country_sierra_leone_name">Sierra Leona</string>
+    <string name="country_singapore_name">Singapur</string>
+    <string name="country_sint_maarten_name">Sint Maarten</string>
+    <string name="country_slovakia_name">Eslovaquia</string>
+    <string name="country_slovenia_name">Eslovenia</string>
+    <string name="country_solomon_islands_name">Islas Salomón</string>
+    <string name="country_somalia_name">Somalia</string>
+    <string name="country_south_africa_name">Sudáfrica</string>
+    <string name="country_south_georgia_name">Islas Georgias del Sur y Sandwich del Sur</string>
+    <string name="country_south_korea_name">Corea</string>
+    <string name="country_south_sudan_name">Sudan del sud</string>
+    <string name="country_spain_name">España</string>
+    <string name="country_sri_lanka_name">Sri Lanka</string>
+    <string name="country_sudan_name">Sudán</string>
+    <string name="country_suriname_name">Surinam</string>
+    <string name="country_swaziland_name">Swazilandia</string>
+    <string name="country_sweden_name">Suecia</string>
+    <string name="country_switzerland_name">Suiza</string>
+    <string name="country_syrian_arab_republic_name">República Árabe Siria</string>
+    <string name="country_taiwan_name">Taiwan, provincia de China</string>
+    <string name="country_tajikistan_name">Tayikistán</string>
+    <string name="country_tanzania_name">Tanzania, República Unida de</string>
+    <string name="country_thailand_name">Tailandia</string>
+    <string name="country_the_democratic_republic_of_congo_name">Congo, La República Democrática Del</string>
+    <string name="country_timor_leste_name">Timor Oriental</string>
+    <string name="country_togo_name">Ir</string>
+    <string name="country_tokelau_name">Tokelau</string>
+    <string name="country_tonga_name">Tonga</string>
+    <string name="country_trinidad_tobago_name">Trinidad y Tobago</string>
+    <string name="country_tunisia_name">Túnez</string>
+    <string name="country_turkey_name">Turquía</string>
+    <string name="country_turkmenistan_name">Turkmenistán</string>
+    <string name="country_turks_and_caicos_islands_name">Islas Turcas y Caicos</string>
+    <string name="country_tuvalu_name">Tuvalu</string>
+    <string name="country_uganda_name">Uganda</string>
+    <string name="country_ukraine_name">Ucrania</string>
+    <string name="country_united_arab_emirates_name">Emiratos Árabes Unidos</string>
+    <string name="country_united_kingdom_name">Reino Unido</string>
+    <string name="country_united_states_name">Estados Unidos</string>
+    <string name="country_uruguay_name">Uruguay</string>
+    <string name="country_us_virgin_islands_name">Islas Vírgenes de EE.UU</string>
+    <string name="country_uzbekistan_name">Uzbekistán</string>
+    <string name="country_vanuatu_name">Vanuatu</string>
+    <string name="country_venezuela_name">Venezuela, República Bolivariana de</string>
+    <string name="country_viet_nam_name">Vietnam</string>
+    <string name="country_wallis_and_futuna_name">Wallis y Futuna</string>
+    <string name="country_yemen_name">Yemen</string>
+    <string name="country_zambia_name">Zambia</string>
+    <string name="country_zimbabwe_name">Zimbabue</string>
+    <string name="exo_controls_fastforward_description">Avanzar rápidamente</string>
+    <string name="exo_controls_fullscreen_description">Modo de pantalla completa</string>
+    <string name="exo_controls_next_description">Siguiente pista</string>
+    <string name="exo_controls_pause_description">Pausar</string>
+    <string name="exo_controls_play_description">Reproducir</string>
+    <string name="exo_controls_previous_description">Pista anterior</string>
+    <string name="exo_controls_repeat_all_description">Repetir todo</string>
+    <string name="exo_controls_repeat_off_description">No repetir</string>
+    <string name="exo_controls_repeat_one_description">Repetir uno</string>
+    <string name="exo_controls_rewind_description">Rebobinar</string>
+    <string name="exo_controls_shuffle_off_description">Sin reproducción aleatoria</string>
+    <string name="exo_controls_shuffle_on_description">Con reproducción aleatoria</string>
+    <string name="exo_controls_stop_description">Detener</string>
+    <string name="exo_controls_vr_description">Modo RV</string>
+    <string name="exo_download_completed">Descarga de archivos completado</string>
+    <string name="exo_download_description">Descargar</string>
+    <string name="exo_download_downloading">Descargando</string>
+    <string name="exo_download_failed">No se ha podido descargar</string>
+    <string name="exo_download_notification_channel_name">Descargas</string>
+    <string name="exo_download_removing">Quitando descargas</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d×%2$d</string>
+    <string name="exo_track_role_alternate">Alternativa</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Comentarios</string>
+    <string name="exo_track_role_supplementary">Complementaria</string>
+    <string name="exo_track_selection_auto">Automático</string>
+    <string name="exo_track_selection_none">Ninguna</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Texto</string>
+    <string name="exo_track_selection_title_video">Vídeo</string>
+    <string name="exo_track_stereo">Estéreo</string>
+    <string name="exo_track_surround">Sonido envolvente</string>
+    <string name="exo_track_surround_5_point_1">Sonido envolvente 5.1</string>
+    <string name="exo_track_surround_7_point_1">Sonido envolvente 7.1</string>
+    <string name="exo_track_unknown">Desconocido</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Varias"</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"Varias"</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"Botón de enviar"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"Botón de enviar. Conectado"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Botón de enviar. Conectando"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Botón de enviar. Desconectado"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"No hay información disponible"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"Buscando dispositivos"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Enviar a"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"Carátula del álbum"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Enviando pantalla"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"Cerrar"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"Ocultar"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"Desconectar"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"Mostrar"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"No hay información disponible"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"No se ha seleccionado contenido"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"Pausar"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"Reproducir"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"Detener"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Detener envío"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"Control deslizante de volumen"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"Añadir un dispositivo"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"Reproducir en un grupo"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"Sistema"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"Dispositivos"</string>
+    <string name="no_result_found">No se han encontrado resultados</string>
+    <string msgid="368094699078615544" name="s1">"Guardar imagen"</string>
+    <string msgid="4550830452390689489" name="s2">"¿Permitir que el anuncio almacene imágenes en la galería de imágenes?"</string>
+    <string msgid="2435407834265420668" name="s3">"Aceptar"</string>
+    <string msgid="9167523597401839819" name="s4">"Rechazar"</string>
+    <string msgid="1566682516266724847" name="s5">"Crear evento de calendario"</string>
+    <string msgid="5996672174517137271" name="s6">"¿Permitir que el anuncio cree un evento de calendario?"</string>
+    <string msgid="7163549807207034258" name="s7">"Anuncio de prueba"</string>
+    <string name="search_hint">buscar …</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="select_country">Seleccionar País</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

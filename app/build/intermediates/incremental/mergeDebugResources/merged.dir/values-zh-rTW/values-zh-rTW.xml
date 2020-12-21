@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="bt_add_card">新增卡片</string>
+    <string name="bt_cancel">取消</string>
+    <string name="bt_card_details">卡片詳細資料</string>
+    <string name="bt_card_not_accepted">不接受此卡片</string>
+    <string name="bt_card_number_invalid">卡號無效</string>
+    <string name="bt_card_number_required">需填寫卡號</string>
+    <string name="bt_cardholder_name_required">需填寫持卡人姓名</string>
+    <string name="bt_cid">CID</string>
+    <string name="bt_confirm">確認</string>
+    <string name="bt_confirm_enrollment">確認註冊</string>
+    <string name="bt_country_code_invalid">國家 / 地區代碼無效</string>
+    <string name="bt_country_code_required">需填寫國家 / 地區代碼</string>
+    <string name="bt_cvc">CVC</string>
+    <string name="bt_cvn">CVN</string>
+    <string name="bt_cvv">CVV</string>
+    <string name="bt_cvv_invalid">%s 無效</string>
+    <string name="bt_cvv_required">%s 為必填</string>
+    <string name="bt_delete">刪除</string>
+    <string name="bt_delete_confirmation_description">你將無法再次於本應用軟體中使用此付款方式。</string>
+    <string name="bt_delete_confirmation_title">要刪除付款方式嗎？</string>
+    <string name="bt_descriptor_amex">Amex</string>
+    <string name="bt_descriptor_android_pay">Android Pay</string>
+    <string name="bt_descriptor_diners">Diners</string>
+    <string name="bt_descriptor_discover">Discover</string>
+    <string name="bt_descriptor_google_pay">Google Pay</string>
+    <string name="bt_descriptor_jcb">JCB</string>
+    <string name="bt_descriptor_maestro">Maestro</string>
+    <string name="bt_descriptor_mastercard">MasterCard</string>
+    <string name="bt_descriptor_pay_with_venmo">Venmo</string>
+    <string name="bt_descriptor_paypal">PayPal</string>
+    <string name="bt_descriptor_unionpay">UnionPay</string>
+    <string name="bt_descriptor_unknown">信用卡或扣帳卡</string>
+    <string name="bt_descriptor_visa">Visa</string>
+    <string name="bt_done">完成</string>
+    <string name="bt_edit">編輯</string>
+    <string name="bt_expiration_invalid">到期日無效</string>
+    <string name="bt_expiration_required">需填寫到期日</string>
+    <string name="bt_form_hint_card_number">卡號</string>
+    <string name="bt_form_hint_cardholder_name">持卡人姓名</string>
+    <string name="bt_form_hint_country_code">國家 / 地區代碼</string>
+    <string name="bt_form_hint_cvv">@string/bt_cvv</string>
+    <string name="bt_form_hint_expiration">到期日</string>
+    <string name="bt_form_hint_mobile_number">手機號碼</string>
+    <string name="bt_form_hint_postal_code">郵遞區號</string>
+    <string name="bt_mobile_number_invalid">手機號碼無效</string>
+    <string name="bt_mobile_number_required">需填寫手機號碼</string>
+    <string name="bt_month">月</string>
+    <string name="bt_next">下一步</string>
+    <string name="bt_other">其他</string>
+    <string name="bt_postal_code_invalid">郵遞區號無效</string>
+    <string name="bt_postal_code_required">需填寫郵遞區號</string>
+    <string name="bt_recent">近期</string>
+    <string name="bt_scan_with_card_io">透過 card.io 掃描</string>
+    <string name="bt_select_payment_method">選擇付款方式</string>
+    <string name="bt_sms_code">簡訊代碼</string>
+    <string name="bt_sms_code_required">需填寫簡訊代碼</string>
+    <string name="bt_sms_code_sent_to">輸入傳送至 %s 的簡訊代碼</string>
+    <string name="bt_unionpay_mobile_number_explanation">此卡片可能需要註冊。如有必要，我們將發送簡訊代碼到此號碼。</string>
+    <string name="bt_unionpay_sms_code_invalid">簡訊代碼無效</string>
+    <string name="bt_use_a_different_phone_number">使用其他電話號碼</string>
+    <string name="bt_vault_manager_delete_failure">我們目前無法刪除你的付款方式，請稍後再試一次。</string>
+    <string name="bt_vault_manager_title">編輯已儲存</string>
+    <string name="bt_year">年</string>
+    <string msgid="4778414446709286370" name="cast_ad_label">"廣告"</string>
+    <string msgid="366047012176970604" name="cast_casting_to_device">"正在投放到 %1$s"</string>
+    <string msgid="2888745622334830481" name="cast_closed_captions">"隱藏式輔助字幕"</string>
+    <string msgid="4476421850100851087" name="cast_closed_captions_unavailable">"無法使用隱藏式輔助字幕"</string>
+    <string msgid="6769392312239056170" name="cast_connecting_to_device">"正在連接至「<ns1:g id="NAME">%1$s</ns1:g>」"</string>
+    <string msgid="4431992200264667209" name="cast_disconnect">"中斷連線"</string>
+    <string msgid="5668979866539349222" name="cast_expanded_controller_ad_image_description">"Cast 接收器播放廣告時顯示的圖片"</string>
+    <string msgid="9069517964239146855" name="cast_expanded_controller_ad_in_progress">"廣告進行中…"</string>
+    <string msgid="8886260998635257149" name="cast_expanded_controller_background_image">"專輯封面"</string>
+    <string msgid="8879956505757481681" name="cast_expanded_controller_live_head_description">"目前的位置是直播的標頭部分"</string>
+    <string msgid="1316611227831672183" name="cast_expanded_controller_live_stream_indicator">"直播"</string>
+    <string msgid="7334411994450681286" name="cast_expanded_controller_loading">"載入中…"</string>
+    <string msgid="8524154027649233400" name="cast_expanded_controller_skip_ad_label">"略過廣告"</string>
+    <string msgid="1171005989073753111" name="cast_expanded_controller_skip_ad_text">"您可以在 %1$d 秒後略過廣告…"</string>
+    <string msgid="7884080323096468593" name="cast_forward">"快轉"</string>
+    <string msgid="6424889955881797947" name="cast_forward_10">"快轉 10 秒"</string>
+    <string msgid="7868672855975238403" name="cast_forward_30">"快轉 30 秒"</string>
+    <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
+    <string msgid="2177473333963666559" name="cast_live_label">"直播"</string>
+    <string msgid="5637297909372905371" name="cast_mute">"靜音"</string>
+    <string msgid="5319032370587661362" name="cast_notification_connected_message">"已連線至「<ns1:g id="NAME">%1$s</ns1:g>」"</string>
+    <string msgid="2758865089947797888" name="cast_notification_connecting_message">"正在連線至「<ns1:g id="NAME">%1$s</ns1:g>」"</string>
+    <string msgid="2568179715202151240" name="cast_notification_default_channel_name">"Cast"</string>
+    <string msgid="5232008641593292969" name="cast_notification_disconnect">"中斷連線"</string>
+    <string msgid="5308503786390460607" name="cast_pause">"暫停"</string>
+    <string msgid="5906987965619702702" name="cast_play">"播放"</string>
+    <string msgid="1739665135565985480" name="cast_rewind">"倒轉"</string>
+    <string msgid="6432793028560778843" name="cast_rewind_10">"倒轉 10 秒"</string>
+    <string msgid="4677199707225681325" name="cast_rewind_30">"倒轉 30 秒"</string>
+    <string msgid="9078075166993780241" name="cast_seek_bar">"播放搜尋控制介面"</string>
+    <string msgid="3991548379225047363" name="cast_skip_next">"跳到下一個項目"</string>
+    <string msgid="8369073097776576935" name="cast_skip_prev">"跳到上一個項目"</string>
+    <string msgid="9191388946729723891" name="cast_stop">"停止"</string>
+    <string msgid="1219622777438777099" name="cast_stop_live_stream">"停止直播"</string>
+    <string msgid="4250321332248956563" name="cast_tracks_chooser_dialog_audio">"音訊"</string>
+    <string msgid="1162380934229249476" name="cast_tracks_chooser_dialog_cancel">"取消"</string>
+    <string msgid="1779359505126875127" name="cast_tracks_chooser_dialog_closed_captions">"隱藏式輔助字幕"</string>
+    <string msgid="3012268736704635952" name="cast_tracks_chooser_dialog_default_track_name">"第 <ns1:g id="POSITION">%1$d</ns1:g> 軌"</string>
+    <string msgid="1176688358580178396" name="cast_tracks_chooser_dialog_none">"無"</string>
+    <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"確定"</string>
+    <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"字幕"</string>
+    <string msgid="2913461521603516868" name="cast_unmute">"取消靜音"</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"啟用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必須啟用 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"啟用 Google Play 服務"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安裝"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的裝置並未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"取得 Google Play 服務"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 服務可用性"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 服務發生錯誤"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」無法存取 Google Play 服務，請再試一次。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的裝置不支援 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必須更新 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服務"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」所需的 Google Play 服務正在更新。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必須使用新版 Google Play 服務。該服務稍後就會自動更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手機上開啟"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登入"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帳戶登入"</string>
+    <string name="country_afghanistan_name">阿富汗</string>
+    <string name="country_aland_islands_name">奧蘭群島</string>
+    <string name="country_albania_name">阿爾巴尼亞</string>
+    <string name="country_algeria_name">阿爾及利亞</string>
+    <string name="country_american_samoa_name">美屬薩摩亞</string>
+    <string name="country_andorra_name">安道爾</string>
+    <string name="country_angola_name">安哥拉</string>
+    <string name="country_anguilla_name">安奎拉</string>
+    <string name="country_antarctica_name">南極洲</string>
+    <string name="country_antigua_and_barbuda_name">安地卡及巴布達</string>
+    <string name="country_argentina_name">阿根廷</string>
+    <string name="country_armenia_name">亞美尼亞</string>
+    <string name="country_aruba_name">荷屬阿魯巴</string>
+    <string name="country_australia_name">澳洲</string>
+    <string name="country_austria_name">奧地利</string>
+    <string name="country_azerbaijan_name">亞塞拜然</string>
+    <string name="country_bahamas_name">巴哈馬</string>
+    <string name="country_bahrain_name">巴林</string>
+    <string name="country_bangladesh_name">孟加拉</string>
+    <string name="country_barbados_name">巴貝多</string>
+    <string name="country_belarus_name">白俄羅斯</string>
+    <string name="country_belgium_name">比利時</string>
+    <string name="country_belize_name">貝里斯</string>
+    <string name="country_benin_name">貝南</string>
+    <string name="country_bermuda_name">百慕達</string>
+    <string name="country_bhutan_name">不丹</string>
+    <string name="country_bolivia_name">玻利維亞</string>
+    <string name="country_bosnia_and_herzegovina_name">波士尼亞與赫塞哥維納</string>
+    <string name="country_botswana_name">波札那</string>
+    <string name="country_brazil_name">巴西</string>
+    <string name="country_british_virgin_islands_name">英屬維京群島</string>
+    <string name="country_brunei_darussalam_name">汶萊</string>
+    <string name="country_bulgaria_name">保加利亞</string>
+    <string name="country_burkina_faso_name">布吉納法索</string>
+    <string name="country_burundi_name">蒲隆地</string>
+    <string name="country_cambodia_name">柬埔寨</string>
+    <string name="country_cameroon_name">喀麥隆</string>
+    <string name="country_canada_name">加拿大</string>
+    <string name="country_cape_verde_name">維德角</string>
+    <string name="country_cayman_islands_name">開曼群島</string>
+    <string name="country_central_african_republic_name">中非共和國</string>
+    <string name="country_chad_name">查德</string>
+    <string name="country_chile_name">智利</string>
+    <string name="country_china_name">中國</string>
+    <string name="country_christmas_island_name">聖誕島</string>
+    <string name="country_cocos_keeling_islands_name">科克斯（基靈）群島</string>
+    <string name="country_colombia_name">哥倫比亞</string>
+    <string name="country_comoros_name">葛摩</string>
+    <string name="country_congo_name">剛果（布拉薩）</string>
+    <string name="country_cook_islands_name">庫克群島</string>
+    <string name="country_costa_rica_name">哥斯大黎加</string>
+    <string name="country_cote_d_ivoire_name">象牙海岸</string>
+    <string name="country_croatia_name">克羅埃西亞</string>
+    <string name="country_cuba_name">古巴</string>
+    <string name="country_cyprus_name">賽普勒斯</string>
+    <string name="country_czech_republic_name">捷克</string>
+    <string name="country_denmark_name">丹麥</string>
+    <string name="country_djibouti_name">吉布地</string>
+    <string name="country_dominica_name">多米尼克</string>
+    <string name="country_dominican_republic_name">多明尼加共和國</string>
+    <string name="country_ecuador_name">厄瓜多</string>
+    <string name="country_egypt_name">埃及</string>
+    <string name="country_el_salvador_name">薩爾瓦多</string>
+    <string name="country_equatorial_guinea_name">赤道幾內亞</string>
+    <string name="country_eritrea_name">厄利垂亞</string>
+    <string name="country_estonia_name">愛沙尼亞</string>
+    <string name="country_ethiopia_name">衣索比亞</string>
+    <string name="country_falkland_islands_malvinas_name">福克蘭群島（馬爾維納斯群島）</string>
+    <string name="country_faroe_islands_name">法羅群島</string>
+    <string name="country_fiji_name">斐濟</string>
+    <string name="country_finland_name">芬蘭</string>
+    <string name="country_france_name">法國</string>
+    <string name="country_french_guyana_name">法屬圭亞那</string>
+    <string name="country_french_polynesia_name">法屬玻里尼西亞</string>
+    <string name="country_gabon_name">加彭</string>
+    <string name="country_gambia_name">甘比亞</string>
+    <string name="country_georgia_name">喬治亞</string>
+    <string name="country_germany_name">德國</string>
+    <string name="country_ghana_name">迦納</string>
+    <string name="country_gibraltar_name">直布羅陀</string>
+    <string name="country_greece_name">希臘</string>
+    <string name="country_greenland_name">格陵蘭</string>
+    <string name="country_grenada_name">格瑞那達</string>
+    <string name="country_guatemala_name">瓜地馬拉</string>
+    <string name="country_guinea_bissau_name">幾內亞比索</string>
+    <string name="country_guinea_name">幾內亞</string>
+    <string name="country_guyana_name">蓋亞那</string>
+    <string name="country_haiti_name">海地</string>
+    <string name="country_holy_see_vatican_city_state_name">梵蒂岡</string>
+    <string name="country_honduras_name">宏都拉斯</string>
+    <string name="country_hong_kong_name">香港</string>
+    <string name="country_hungary_name">匈牙利</string>
+    <string name="country_iceland_name">冰島</string>
+    <string name="country_india_name">印度</string>
+    <string name="country_indonesia_name">印尼</string>
+    <string name="country_iran_name">伊朗</string>
+    <string name="country_iraq_name">伊拉克</string>
+    <string name="country_ireland_name">愛爾蘭</string>
+    <string name="country_isle_of_man_name">曼島</string>
+    <string name="country_israel_name">以色列</string>
+    <string name="country_italy_name">義大利</string>
+    <string name="country_jamaica_name">牙買加</string>
+    <string name="country_japan_name">日本</string>
+    <string name="country_jordan_name">約旦</string>
+    <string name="country_kazakhstan_name">哈薩克</string>
+    <string name="country_kenya_name">肯亞</string>
+    <string name="country_kiribati_name">吉里巴斯</string>
+    <string name="country_kosovo_name">Kosovo</string>
+    <string name="country_kuwait_name">科威特</string>
+    <string name="country_kyrgyzstan_name">吉爾吉斯</string>
+    <string name="country_lao_peoples_democratic_republic_name">寮國</string>
+    <string name="country_latvia_name">拉脫維亞</string>
+    <string name="country_lebanon_name">黎巴嫩</string>
+    <string name="country_lesotho_name">賴索托</string>
+    <string name="country_liberia_name">賴比瑞亞</string>
+    <string name="country_libya_name">利比亞</string>
+    <string name="country_liechtenstein_name">列支敦斯登</string>
+    <string name="country_lithuania_name">立陶宛</string>
+    <string name="country_luxembourg_name">盧森堡</string>
+    <string name="country_macao_name">澳門</string>
+    <string name="country_macedonia_name">前南斯拉夫馬其頓共和國</string>
+    <string name="country_madagascar_name">馬達加斯加</string>
+    <string name="country_malawi_name">馬拉威</string>
+    <string name="country_malaysia_name">馬來西亞</string>
+    <string name="country_maldives_name">馬爾地夫</string>
+    <string name="country_mali_name">馬利</string>
+    <string name="country_malta_name">馬爾他</string>
+    <string name="country_marshall_islands_name">馬紹爾群島</string>
+    <string name="country_martinique_name">馬丁尼克</string>
+    <string name="country_mauritania_name">茅利塔尼亞</string>
+    <string name="country_mauritius_name">模里西斯</string>
+    <string name="country_mayotte_name">馬約特島</string>
+    <string name="country_mexico_name">墨西哥</string>
+    <string name="country_micronesia_name">密克羅尼西亞</string>
+    <string name="country_moldova_name">摩爾多瓦</string>
+    <string name="country_monaco_name">摩納哥</string>
+    <string name="country_mongolia_name">蒙古</string>
+    <string name="country_montenegro_name">蒙特內哥羅</string>
+    <string name="country_montserrat_name">蒙哲臘</string>
+    <string name="country_morocco_name">摩洛哥</string>
+    <string name="country_mozambique_name">莫三比克</string>
+    <string name="country_myanmar_name">緬甸</string>
+    <string name="country_namibia_name">納米比亞</string>
+    <string name="country_nauru_name">諾魯</string>
+    <string name="country_nepal_name">尼泊爾</string>
+    <string name="country_netherlands_name">荷蘭</string>
+    <string name="country_new_caledonia_name">新喀里多尼亞</string>
+    <string name="country_new_zealand_name">紐西蘭</string>
+    <string name="country_nicaragua_name">尼加拉瓜</string>
+    <string name="country_niger_name">尼日</string>
+    <string name="country_nigeria_name">奈及利亞</string>
+    <string name="country_niue_name">紐埃島</string>
+    <string name="country_north_korea_name">北韓</string>
+    <string name="country_norway_name">挪威</string>
+    <string name="country_oman_name">阿曼</string>
+    <string name="country_pakistan_name">巴基斯坦</string>
+    <string name="country_palau_name">帛琉</string>
+    <string name="country_panama_name">巴拿馬</string>
+    <string name="country_papua_new_guinea_name">巴布亞紐幾內亞</string>
+    <string name="country_paraguay_name">巴拉圭</string>
+    <string name="country_peru_name">秘魯</string>
+    <string name="country_philippines_name">菲律賓</string>
+    <string name="country_pitcairn_name">皮特肯群島</string>
+    <string name="country_poland_name">波蘭</string>
+    <string name="country_portugal_name">葡萄牙</string>
+    <string name="country_puerto_rico_name">波多黎各</string>
+    <string name="country_qatar_name">卡達</string>
+    <string name="country_reunion_name">留尼旺</string>
+    <string name="country_romania_name">羅馬尼亞</string>
+    <string name="country_russian_federation_name">俄羅斯</string>
+    <string name="country_rwanda_name">盧安達</string>
+    <string name="country_saint_barthelemy_name">聖巴瑟米</string>
+    <string name="country_saint_helena_name">聖赫勒拿島</string>
+    <string name="country_saint_kitts_and_nevis_name">聖克里斯多福及尼維斯</string>
+    <string name="country_saint_lucia_name">聖露西亞</string>
+    <string name="country_saint_pierre_and_miquelon_name">聖皮埃與密克隆群島</string>
+    <string name="country_saint_vincent_the_grenadines_name">聖文森及格瑞那丁</string>
+    <string name="country_samoa_name">薩摩亞</string>
+    <string name="country_san_marino_name">聖馬利諾</string>
+    <string name="country_sao_tome_and_principe_name">聖多美普林西比</string>
+    <string name="country_saudi_arabia_name">沙烏地阿拉伯</string>
+    <string name="country_senegal_name">塞內加爾</string>
+    <string name="country_serbia_name">塞爾維亞</string>
+    <string name="country_seychelles_name">塞席爾</string>
+    <string name="country_sierra_leone_name">獅子山</string>
+    <string name="country_singapore_name">新加坡</string>
+    <string name="country_sint_maarten_name">荷屬聖馬丁</string>
+    <string name="country_slovakia_name">斯洛伐克</string>
+    <string name="country_slovenia_name">斯洛維尼亞</string>
+    <string name="country_solomon_islands_name">索羅門群島</string>
+    <string name="country_somalia_name">索馬利亞</string>
+    <string name="country_south_africa_name">南非</string>
+    <string name="country_south_korea_name">南韓</string>
+    <string name="country_south_sudan_name">南蘇丹</string>
+    <string name="country_spain_name">西班牙</string>
+    <string name="country_sri_lanka_name">斯里蘭卡</string>
+    <string name="country_sudan_name">蘇丹</string>
+    <string name="country_suriname_name">蘇利南</string>
+    <string name="country_swaziland_name">史瓦濟蘭</string>
+    <string name="country_sweden_name">瑞典</string>
+    <string name="country_switzerland_name">瑞士</string>
+    <string name="country_syrian_arab_republic_name">敘利亞</string>
+    <string name="country_taiwan_name">台灣</string>
+    <string name="country_tajikistan_name">塔吉克</string>
+    <string name="country_tanzania_name">坦尚尼亞</string>
+    <string name="country_thailand_name">泰國</string>
+    <string name="country_the_democratic_republic_of_congo_name">剛果（金夏沙）</string>
+    <string name="country_timor_leste_name">東帝汶</string>
+    <string name="country_togo_name">多哥</string>
+    <string name="country_tokelau_name">托克勞群島</string>
+    <string name="country_tonga_name">東加</string>
+    <string name="country_trinidad_tobago_name">千里達及托巴哥</string>
+    <string name="country_tunisia_name">突尼西亞</string>
+    <string name="country_turkey_name">土耳其</string>
+    <string name="country_turkmenistan_name">土庫曼</string>
+    <string name="country_turks_and_caicos_islands_name">土克斯及開科斯群島</string>
+    <string name="country_tuvalu_name">吐瓦魯</string>
+    <string name="country_uganda_name">烏干達</string>
+    <string name="country_ukraine_name">烏克蘭</string>
+    <string name="country_united_arab_emirates_name">阿拉伯聯合大公國</string>
+    <string name="country_united_kingdom_name">英國</string>
+    <string name="country_united_states_name">美國</string>
+    <string name="country_uruguay_name">烏拉圭</string>
+    <string name="country_us_virgin_islands_name">美屬維京群島</string>
+    <string name="country_uzbekistan_name">烏茲別克</string>
+    <string name="country_vanuatu_name">萬那杜</string>
+    <string name="country_venezuela_name">委內瑞拉</string>
+    <string name="country_viet_nam_name">越南</string>
+    <string name="country_wallis_and_futuna_name">瓦利斯群島和富圖那群島</string>
+    <string name="country_yemen_name">葉門</string>
+    <string name="country_zambia_name">尚比亞</string>
+    <string name="country_zimbabwe_name">辛巴威</string>
+    <string name="exo_controls_fastforward_description">快轉</string>
+    <string name="exo_controls_fullscreen_description">全螢幕模式</string>
+    <string name="exo_controls_next_description">下一首曲目</string>
+    <string name="exo_controls_pause_description">暫停</string>
+    <string name="exo_controls_play_description">播放</string>
+    <string name="exo_controls_previous_description">上一首曲目</string>
+    <string name="exo_controls_repeat_all_description">重複播放所有項目</string>
+    <string name="exo_controls_repeat_off_description">不重複播放</string>
+    <string name="exo_controls_repeat_one_description">重複播放單一項目</string>
+    <string name="exo_controls_rewind_description">倒轉</string>
+    <string name="exo_controls_shuffle_off_description">隨機播放已關閉</string>
+    <string name="exo_controls_shuffle_on_description">隨機播放已開啟</string>
+    <string name="exo_controls_stop_description">停止</string>
+    <string name="exo_controls_vr_description">虛擬實境模式</string>
+    <string name="exo_download_completed">下載完成</string>
+    <string name="exo_download_description">下載</string>
+    <string name="exo_download_downloading">下載中</string>
+    <string name="exo_download_failed">無法下載</string>
+    <string name="exo_download_notification_channel_name">下載</string>
+    <string name="exo_download_removing">正在移除下載內容</string>
+    <string name="exo_item_list">%1$s、%2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">單聲道</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">替用軌</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">旁白</string>
+    <string name="exo_track_role_supplementary">補充軌</string>
+    <string name="exo_track_selection_auto">自動</string>
+    <string name="exo_track_selection_none">無</string>
+    <string name="exo_track_selection_title_audio">音訊</string>
+    <string name="exo_track_selection_title_text">文字</string>
+    <string name="exo_track_selection_title_video">影片</string>
+    <string name="exo_track_stereo">立體聲</string>
+    <string name="exo_track_surround">環繞音效</string>
+    <string name="exo_track_surround_5_point_1">5.1 環繞音效</string>
+    <string name="exo_track_surround_7_point_1">7.1 環繞音效</string>
+    <string name="exo_track_unknown">不明</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"其他"</string>
+    <string msgid="9521340570209730" name="gcm_fallback_notification_channel_label">"其他"</string>
+    <string msgid="1685185767093348095" name="mr_button_content_description">"投放按鈕"</string>
+    <string msgid="1350095112462806159" name="mr_cast_button_connected">"投放按鈕；已連線"</string>
+    <string msgid="8959304318293841992" name="mr_cast_button_connecting">"投放按鈕；連線中"</string>
+    <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"投放按鈕；已中斷連線"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"沒有可用的資訊"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"正在尋找裝置"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"投放到"</string>
+    <string msgid="5813284753012893250" name="mr_controller_album_art">"專輯封面"</string>
+    <string msgid="5286734709674025661" name="mr_controller_casting_screen">"正在投放畫面"</string>
+    <string msgid="5468775621814500662" name="mr_controller_close_description">"關閉"</string>
+    <string msgid="5518911192681928413" name="mr_controller_collapse_group">"收合"</string>
+    <string msgid="1370654436555555647" name="mr_controller_disconnect">"中斷連線"</string>
+    <string msgid="2422682304043876468" name="mr_controller_expand_group">"展開"</string>
+    <string msgid="7299368841849988218" name="mr_controller_no_info_available">"沒有可用的資訊"</string>
+    <string msgid="4342878516155861006" name="mr_controller_no_media_selected">"未選取任何媒體"</string>
+    <string msgid="4701315813294065305" name="mr_controller_pause">"暫停"</string>
+    <string msgid="4443315438268112801" name="mr_controller_play">"播放"</string>
+    <string msgid="5106056093749454009" name="mr_controller_stop">"停止"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"停止投放"</string>
+    <string msgid="691656961160498512" name="mr_controller_volume_slider">"音量滑桿"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"新增裝置"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"在群組上播放"</string>
+    <string msgid="3117964881088969586" name="mr_system_route_name">"系統"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"裝置"</string>
+    <string name="no_result_found">沒有結果</string>
+    <string msgid="368094699078615544" name="s1">"儲存圖片"</string>
+    <string msgid="4550830452390689489" name="s2">"要允許廣告將圖片儲存在相片庫中嗎？"</string>
+    <string msgid="2435407834265420668" name="s3">"接受"</string>
+    <string msgid="9167523597401839819" name="s4">"拒絕"</string>
+    <string msgid="1566682516266724847" name="s5">"建立日曆活動"</string>
+    <string msgid="5996672174517137271" name="s6">"要允許廣告建立日曆活動嗎？"</string>
+    <string msgid="7163549807207034258" name="s7">"測試廣告"</string>
+    <string name="search_hint">搜尋 …</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string name="select_country">選擇國家</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

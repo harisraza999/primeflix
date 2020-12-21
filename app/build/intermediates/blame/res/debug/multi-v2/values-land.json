@@ -1,0 +1,106 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Office Session Court\\Desktop\\PrimeFlix\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\dce571d68090ab50902bf894107d0393\\jetified-play-services-cast-framework-18.0.0\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "183,264,344,414,483,578",
+                        "endColumns": "80,79,69,68,94,90",
+                        "endOffsets": "263,343,413,482,577,668"
+                    },
+                    "to": {
+                        "startLines": "13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "804,889,973,1047,1120,1219",
+                        "endColumns": "84,83,73,72,98,94",
+                        "endOffsets": "884,968,1042,1115,1214,1309"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\f864d8ae8be0d45226da7608e8ecff3f\\appcompat-1.0.2\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\590f97a9bfc4d3de6187ce49c616d153\\jetified-drop-in-3.7.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,131,202,264,325",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "126,197,259,320,380"
+                    },
+                    "to": {
+                        "startLines": "5,6,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "264,340,621,683,744",
+                        "endColumns": "75,70,61,60,59",
+                        "endOffsets": "335,406,678,739,799"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\35815d300912a0b5e1fda49ff0c68e84\\jetified-card-form-3.5.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "7,8,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "411,475,548",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "470,543,616"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\7f7e42ab0b384582543d1c33d417ef15\\mediarouter-1.1.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "19,20,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1314,1389,1467",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "1384,1462,1537"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\f62448b8e2c0480d354ac5ab5c20eb2f\\material-1.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1542",
+                        "endLines": "25",
+                        "endColumns": "10",
+                        "endOffsets": "1709"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bvp_subtitle_color">#FFFFFF</color>
+    <dimen name="bvp_button_size">48dp</dimen>
+    <dimen name="bvp_content_inset_half">8dp</dimen>
+    <dimen name="bvp_subtitle_size">22sp</dimen>
+    <dimen name="bvp_text_size_medium">14sp</dimen>
+    <string name="brightness">Brightness: %1$d</string>
+    <string name="volume">Volume: %1$d</string>
+    <declare-styleable name="BetterVideoPlayer">
+
+        <attr format="string" name="bvp_source"/>
+        <attr format="string" name="bvp_title"/>
+
+        <attr format="reference" name="bvp_playDrawable"/>
+        <attr format="reference" name="bvp_pauseDrawable"/>
+        <attr format="reference" name="bvp_restartDrawable"/>
+        <attr name="bvp_loadingStyle">
+            <enum name="DoubleBounce" value="0"/>
+            <enum name="RotatingPlane" value="1"/>
+            <enum name="Wave" value="2"/>
+            <enum name="WanderingCubes" value="3"/>
+            <enum name="Pulse" value="4"/>
+            <enum name="ChasingDots" value="5"/>
+            <enum name="ThreeBounce" value="6"/>
+            <enum name="Circle" value="7"/>
+            <enum name="CubeGrid" value="8"/>
+            <enum name="FadingCircle" value="9"/>
+            <enum name="RotatingCircle" value="10"/>
+        </attr>
+
+        <attr format="reference" name="bvp_menu"/>
+
+        <attr format="boolean" name="bvp_hideControlsOnPlay"/>
+        <attr format="boolean" name="bvp_autoPlay"/>
+        <attr format="boolean" name="bvp_loop"/>
+        <attr format="boolean" name="bvp_showTotalDuration"/>
+        <!--
+            Show a preview of the current progress on the bottom of the video.
+            Kind of like the Youtube player.
+        -->
+        <attr format="boolean" name="bvp_showBottomProgressBar"/>
+        <attr name="bvp_gestureType">
+            <enum name="NoGesture" value="0"/>
+            <enum name="SwipeGesture" value="1"/>
+            <enum name="DoubleTapGesture" value="2"/>
+        </attr>
+        <attr format="boolean" name="bvp_showToolbar"/>
+        <attr format="integer" name="bvp_hideControlsDuration"/>
+
+        <attr format="boolean" name="bvp_disableControls"/>
+
+        <attr format="boolean" name="bvp_autoFullscreen"/>
+
+        <attr format="dimension" name="bvp_captionSize"/>
+        <attr format="color" name="bvp_captionColor"/>
+
+    </declare-styleable>
+</resources>

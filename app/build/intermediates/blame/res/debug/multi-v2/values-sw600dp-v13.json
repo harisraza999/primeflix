@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Office Session Court\\Desktop\\PrimeFlix\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\f62448b8e2c0480d354ac5ab5c20eb2f\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,20,23,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "688,748,818,889,961,1019,1077,1186,1388,2108",
+                        "endLines": "12,13,14,15,16,17,19,20,23,38",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "743,813,884,956,1014,1072,1181,1245,1446,2275"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\f864d8ae8be0d45226da7608e8ecff3f\\appcompat-1.0.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "132,201,270,340,414,490,549,620",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "196,265,335,409,485,544,615,683"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\fc2579f28805676329bd925d1dc8f41f\\jetified-checkout-1.5.16\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    },
+                    "to": {
+                        "startLines": "2,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1451",
+                        "endLines": "2,34",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,2103"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Office Session Court\\.gradle\\caches\\transforms-2\\files-2.1\\7f7e42ab0b384582543d1c33d417ef15\\mediarouter-1.1.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,94,163",
+                        "endColumns": "38,68,68",
+                        "endOffsets": "89,158,227"
+                    },
+                    "to": {
+                        "startLines": "3,21,22",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "93,1250,1319",
+                        "endColumns": "38,68,68",
+                        "endOffsets": "127,1314,1383"
+                    }
+                }
+            ]
+        }
+    ]
+}

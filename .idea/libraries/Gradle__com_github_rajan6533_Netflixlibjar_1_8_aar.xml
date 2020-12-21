@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rajan6533:Netflixlibjar:1.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa110353b36dee982cf131d3a2a25e60/jetified-Netflixlibjar-1.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa110353b36dee982cf131d3a2a25e60/jetified-Netflixlibjar-1.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa110353b36dee982cf131d3a2a25e60/jetified-Netflixlibjar-1.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rajan6533/Netflixlibjar/1.8/b5199225636bf16f82c7e3ad85614fb44c75e11e/Netflixlibjar-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

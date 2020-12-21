@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+color black_p50
+string app_name
+style Theme.Swipe.Back
